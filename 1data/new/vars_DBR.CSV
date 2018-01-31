@@ -1,0 +1,151 @@
+variable;area;type;variable_detail;Methdology
+Economy;;;;
+Year;;;;
+Rank global (DB18);global;Rank;;DB18
+DTF global (DB17-18 methodology);global;DTF;;DB17-18 methodology
+DTF global (DB16 methodology);global;DTF;;DB16 methodology
+DTF global (DB15 methodology);global;DTF;;DB15 methodology
+DTF global (DB10-14 methodology);global;DTF;;DB10-14 methodology
+Rank - Starting a business (DB18);Starting a business;Rank;;DB18
+Starting a Business - DTF - Starting a business;Starting a Business;DTF;Starting a Business;
+Starting a Business - Procedures - Men (number);Starting a Business;subindicator;Procedures - Men (number);
+Starting a Business - Time - Men (days);Starting a Business;subindicator;Time - Men (days);
+Starting a Business - Cost - Men (% of income per capita);Starting a Business ;subindicator;Cost Men (% of income per capita);
+Starting a Business - Procedures - Women (number);Starting a Business ;subindicator;Procedures Women (number);
+Starting a Business - Time - Women (days);Starting a Business ;subindicator;Time Women (days);
+Starting a Business - Cost - Women (% of income per capita);Starting a Business ;subindicator;Cost Women (% of income per capita);
+Starting a Business - Minimum capital (% of income per capita);Starting a Business ;subindicator; Minimum capital (% of income per capita);
+Rank - Dealing with construction permits (DB18);Dealing with construction permits;Rank;;DB18
+Dealing with Construction Permits - DTF - Dealing with construction permits (DB16-18 methodology);Dealing with Construction Permits ;DTF;Dealing with construction permits;DB16-18 methodology
+Dealing with Construction Permits - DTF - Dealing with construction permits (DB06-15 methodology);Dealing with Construction Permits ;DTF;Dealing with construction permits;DB06-15 methodology
+Dealing with Construction Permits - Procedures (number);Dealing with Construction Permits ;subindicator;Procedures (number);
+Dealing with Construction Permits - Time (days);Dealing with Construction Permits ;subindicator;Time (days);
+Dealing with Construction Permits - Cost (% of Warehouse value);Dealing with Construction Permits ;subindicator;Cost (% of Warehouse value);
+Dealing with Construction Permits - Building quality control index (0-15) (DB16-18 methodology);Dealing with Construction Permits ;subindicator; Building quality control index (0 -15);DB16-18 methodology
+Dealing with Construction Permits - Quality of building regulations index (0-2) (DB16-18 methodology);Dealing with Construction Permits ;subindicator; Quality of building regulations index (0 - 2);DB16-18 methodology
+Dealing with Construction Permits - Quality control before construction index (0-1) (DB16-18 methodology);Dealing with Construction Permits ;subindicator; Quality control before construction index (0-1);DB16-18 methodology
+Dealing with Construction Permits - Quality control during construction index (0-3) (DB16-18 methodology);Dealing with Construction Permits ;subindicator; Quality control during construction index (0-3);DB16-18 methodology
+Dealing with Construction Permits - Quality control after construction index (0-3) (DB16-18 methodology);Dealing with Construction Permits ;subindicator; Quality control after construction index (0-3);DB16-18 methodology
+Dealing with Construction Permits - Liability and insurance regimes index (0-2) (DB16-18 methodology);Dealing with Construction Permits ;subindicator; Liability and insurance regimes index (0-2);DB16-18 methodology
+Dealing with Construction Permits - Professional certifications index (0-4) (DB16-18 methodology);Dealing with Construction Permits ;subindicator; Professional certifications index (0-4);DB16-18 methodology
+Rank - Getting electricity (DB18);Getting electricity;Rank ;;DB18
+Getting Electricity - DTF - Getting electricity  (DB16-18 methodology);Getting Electricity ; DTF ; Getting electricity  ;DB16 -18 methodology
+Getting Electricity - DTF - Getting electricity (DB10-15 methodology);Getting Electricity ; DTF ; Getting electricity  ;DB10-15 methodology
+Getting Electricity - Procedures (number);Getting Electricity ;subindicator;Procedures (number);
+Getting Electricity - Time (days);Getting Electricity ;subindicator;Time (days);
+Getting Electricity - Cost (% of income per capita);Getting Electricity ;subindicator; Cost (% of income per capita);
+Getting Electricity - Reliability of supply and transparency of tariff index (0-8) (DB16-18 methodology);Getting Electricity ;subindicator;Reliability of supply and transparency of tariff index (0-8);DB16-18 methodology
+Getting Electricity - Total duration and frequency of outages per customer a year (0-3) (DB16-18 methodology);Getting Electricity ;subindicator;Total duration and frequency of outages per customer a year (0-3);DB16-18 methodology
+Getting Electricity - System average interruption duration index (SAIDI) (DB16-18 methodology);Getting Electricity ;subindicator;System average interruption duration index (SAIDI);DB16-18 methodology
+Getting Electricity - System average interruption frequency index (SAIFI) (DB16-18 methodology);Getting Electricity ;subindicator; System average interruption frequency index (SAIFI);DB16-18 methodology
+Getting Electricity - Minimum outage time (in minutes)  (DB16-18 methodology);Getting Electricity ;subindicator; Minimum outage time (in minutes)  ;DB16-18 methodology
+Getting Electricity - Mechanisms for monitoring outages (0-1) (DB16-18 methodology);Getting Electricity ;subindicator; Mechanisms for monitoring outages (0-1);DB16-18 methodology
+Getting Electricity - Mechanisms for restoring service (0-1) (DB16-18 methodology);Getting Electricity ;subindicator; Mechanisms for restoring service (0-1);DB16-18 methodology
+Getting Electricity - Regulatory monitoring (0-1) (DB16-18 methodology);Getting Electricity ;subindicator; Regulatory monitoring (0-1);DB16-18 methodology
+Getting Electricity - Financial deterrents aimed at limiting outages (0-1) (DB16-18 methodology);Getting Electricity ;subindicator; Financial deterrents aimed at limiting outages (0-1);DB16-18 methodology
+Getting Electricity - Communication of tariffs and tariff changes (0-1) (DB16-18 methodology);Getting Electricity ;subindicator; Communication of tariffs and tariff changes (0-1);DB16-18 methodology
+Rank - Registering property (DB18);Registering property;Rank ;;DB18
+Registering Property - DTF - Registering property (DB17-18 methodology);Registering Property ; DTF ;;DB17-18 methodology
+Registering Property - DTF - Registering property (DB16 methodology);Registering Property ; DTF ;;DB16 methodology
+Registering Property - DTF - Registering property (DB05-15 methodology);Registering Property ; DTF ;;DB05-15 methodology
+Registering Property - Procedures (number);Registering Property ;subindicator; Procedures (number);
+Registering Property - Time (days);Registering Property ;subindicator; Time (days);
+Registering Property - Cost (% of property value);Registering Property ;subindicator; Cost (% of property value);
+Registering Property - Quality of land administration index (0-30) (DB16 methodology);Registering Property ;subindicator; Quality of land administration index (0-30);DB16 methodology
+Registering Property - Quality of land administration index (0-30) (DB17-18 methodology);Registering Property ;subindicator; Quality of land administration index (0-30);DB17-18 methodology
+Registering Property - Reliability of infrastructure index (0-8) (DB16-18 methodology);Registering Property ;subindicator; Reliability of infrastructure index (0-8);DB16-18 methodology
+Registering Property - Transparency of information index (0-6) (DB16-18 methodology);Registering Property ;subindicator; Transparency of information index (0-6);DB16-18 methodology
+Registering Property - Geographic coverage index (0-8) (DB16-18 methodology);Registering Property ;subindicator; Geographic coverage index (0-8);DB16-18 methodology
+Registering Property - Land dispute resolution index (0-8) (DB16-18 methodology);Registering Property ;subindicator; Land dispute resolution index (0-8);DB16-18 methodology
+Registering Property - Equal access to property rights index (-2-0) (DB17-18 methodology);Registering Property ;subindicator; Equal access to property rights index (-2-0);DB17-18 methodology
+Rank - Getting credit (DB18); Getting credit ;Rank ;;DB18
+Getting Credit - DTF - Getting credit (DB15-18 methodology);Getting Credit ;DTF; Getting credit ;DB15-18 methodology
+Getting Credit - DTF - Getting credit (DB05-14 methodology);Getting Credit ;DTF; Getting credit ;DB05-14 methodology
+Getting Credit - Strength of legal rights index (0-10) (DB05-14 methodology);Getting Credit ;subindicator; Strength of legal rights index (0-10);DB05-14 methodology
+Getting Credit - Strength of legal rights index (0-12) (DB15-18 methodology);Getting Credit ;subindicator; Strength of legal rights index (0-12);DB15-18 methodology
+Getting Credit - Depth of credit information index (0-6) (DB05-14 methodology);Getting Credit ;subindicator; Depth of credit information index (0-6);DB05-14 methodology
+Getting Credit - Depth of credit information index (0-8) (DB15-18 methodology);Getting Credit ;subindicator; Depth of credit information index (0-8);DB15-18 methodology
+Getting Credit - Credit registry coverage (% of adults);Getting Credit ;subindicator; Credit registry coverage (% of adults);
+Getting Credit - Credit bureau coverage (% of adults);Getting Credit ;subindicator; Credit bureau coverage (% of adults);
+Getting Credit - Getting Credit total score (DB05-14 methodology);Getting Credit ;subindicator; Getting Credit total score ;DB05-14 methodology
+Getting Credit - Getting Credit total score (DB15-18 methodology);Getting Credit ;subindicator; Getting Credit total score;DB15-18 methodology
+Rank -Protecting minority investors (DB18);Protecting minority investors ;Rank ;;DB18
+Protecting Minority Investors - DTF - Protecting minority investors (DB15-18 methodology);Protecting Minority Investors ;DTF; Protecting minority investors ;DB15-18 methodology
+Protecting Minority Investors - DTF - Protecting minority investors (DB06-14 methodology);Protecting Minority Investors ;DTF; Protecting minority investors ;DB06-14 methodology
+Protecting Minority Investors - Extent of disclosure index (0-10);Protecting Minority Investors ;subindicator; Extent of disclosure index (0-10);
+Protecting Minority Investors - Extent of director liability index (0-10);Protecting Minority Investors ;subindicator; Extent of director liability index (0-10);
+Protecting Minority Investors - Ease of shareholder suits index (0-10) (DB06-14 methodology);Protecting Minority Investors ;subindicator; Ease of shareholder suits index (0-10);DB06-14 methodology
+Protecting Minority Investors - Ease of shareholder suits index (0-10) (DB15-18 methodology);Protecting Minority Investors ;subindicator; Ease of shareholder suits index (0-10);DB15-18 methodology
+Protecting Minority Investors - Extent of shareholder rights index (0-10) (DB15-18 methodology);Protecting Minority Investors ;subindicator; Extent of shareholder rights index (0-10);DB15-18 methodology
+Protecting Minority Investors - Extent of ownership and control index (0-10) (DB15-18 methodology);Protecting Minority Investors ;subindicator; Extent of ownership and control index (0-10);DB15-18 methodology
+Protecting Minority Investors - Extent of corporate transparency index (0-10) (DB15-18 methodology);Protecting Minority Investors ;subindicator; Extent of corporate transparency index (0-10);DB15-18 methodology
+Protecting Minority Investors - Extent of conflict of interest regulation index (0-10) (DB15-18 methodology);Protecting Minority Investors ;subindicator; Extent of conflict of interest regulation index (0-10);DB15-18 methodology
+Protecting Minority Investors - Extent of shareholder governance index (0-10) (DB15-18 methodology);Protecting Minority Investors ;subindicator; Extent of shareholder governance index (0-10);DB15-18 methodology
+Protecting Minority Investors - Strength of investor protection index (0-10) (DB06-14 methodology);Protecting Minority Investors ;subindicator; Strength of investor protection index (0-10);DB06-14 methodology
+Protecting Minority Investors - Strength of minority investor protection index (0-10) (DB15-18 methodology);Protecting Minority Investors ;subindicator; Strength of minority investor protection index (0-10);DB15-18 methodology
+Rank - Paying taxes (DB18); Paying taxes;Rank;; (DB18)
+Paying Taxes - DTF - Paying taxes (DB17-18 methodology);Paying Taxes ;DTF; Paying taxes ;DB17-18 methodology
+Paying Taxes - DTF - Paying taxes (DB06-16 methodology);Paying Taxes ;DTF; Paying taxes ;DB06-16 methodology
+Paying Taxes - Payments (number per year);Paying Taxes ;subindicator; Payments (number per year);
+Paying Taxes - Time (hours per year);Paying Taxes ;subindicator; Time (hours per year);
+Paying Taxes - Total tax rate (% of profit);Paying Taxes ;subindicator; Total tax rate (% of profit);
+Paying Taxes - Profit tax (% of profit);Paying Taxes ;subindicator; Profit tax (% of profit);
+Paying Taxes - Profit tax (% of profit)__1;Paying Taxes ;subindicator; Profit tax (% of profit)__1;
+Paying Taxes - Labor tax and contributions (% of profit);Paying Taxes ;subindicator; Labor tax and contributions (% of profit);
+Paying Taxes - Labor tax and contributions (% of profit)__1;Paying Taxes ;subindicator; Labor tax and contributions (% of profit)__1;
+Paying Taxes - Other taxes (% of profit);Paying Taxes ;subindicator; Other taxes (% of profit);
+Paying Taxes - Other taxes (% of profit)__1;Paying Taxes ;subindicator; Other taxes (% of profit)__1;
+Paying Taxes - Time to comply with VAT refund (hours) (DB17-18 methodology);Paying Taxes ;subindicator; Time to comply with VAT refund (hours) ;DB17-18 methodology
+Paying Taxes - Time to obtain VAT refund (weeks) (DB17-18 methodology);Paying Taxes ;subindicator; Time to obtain VAT refund (weeks) ;DB17-18 methodology
+Paying Taxes - Time to comply with corporate income tax audit (hours) (DB17-18 methodology);Paying Taxes ;subindicator; Time to comply with corporate income tax audit (hours) ;DB17-18 methodology
+Paying Taxes - Time to complete a corporate income tax audit (weeks) (DB17-18 methodology);Paying Taxes ;subindicator; Time to complete a corporate income tax audit (weeks) ;DB17-18 methodology
+Paying Taxes - DTF-Postfiling index (0-100) (DB17-18 methodology);Paying Taxes ;DTF;Postfiling index (0-100);DB17-18 methodology
+Rank - Trading across borders (DB18);Trading across borders;Rank ;;DB18
+Trading across Borders - DTF - Trading across borders (DB16-18 methodology);Trading across Borders ;DTF; Trading across borders ;DB16-18 methodology
+Trading across Borders - DTF - Trading across borders (DB06-15 methodology);Trading across Borders ;DTF; Trading across borders ;DB06-15 methodology
+Trading across Borders - Documents to export (number) (DB06-15 methodology);Trading across Borders ;subindicator; Documents to export (number) ;DB06-15 methodology
+Trading across Borders - Documents to import (number) (DB06-15 methodology);Trading across Borders ;subindicator; Documents to import (number) ;DB06-15 methodology
+Trading across Borders - Cost to export (US$ per container deflated) (DB06-15 methodology);Trading across Borders ;subindicator; Cost to export (US$ per container deflated) ;DB06-15 methodology
+Trading across Borders - Cost to import (US$ per container deflated) (DB06-15 methodology);Trading across Borders ;subindicator; Cost to import (US$ per container deflated) ;DB06-15 methodology
+Trading across Borders - Time to export (days) (DB06-15 methodology);Trading across Borders ;subindicator; Time to export (days) ;DB06-15 methodology
+Trading across Borders - Time to import (days) (DB06-15 methodology);Trading across Borders ;subindicator; Time to import (days) ;DB06-15 methodology
+Trading across Borders - Time to export: Documentary compliance (hours) (DB16-18 methodology);Trading across Borders ;subindicator; Time to export: Documentary compliance (hours) ;DB16-18 methodology
+Trading across Borders - Time to import: Documentary compliance (hours) (DB16-18 methodology);Trading across Borders ;subindicator; Time to import: Documentary compliance (hours) ;DB16-18 methodology
+Trading across Borders - Time to export: Border compliance (hours) (DB16-18 methodology);Trading across Borders ;subindicator; Time to export: Border compliance (hours) ;DB16-18 methodology
+Trading across Borders - Time to import: Border compliance (hours) (DB16-18 methodology);Trading across Borders ;subindicator; Time to import: Border compliance (hours) ;DB16-18 methodology
+Trading across Borders - Cost to export: Documentary compliance (USD) (DB16-18 methodology);Trading across Borders ;subindicator; Cost to export: Documentary compliance (USD) ;DB16-18 methodology
+Trading across Borders - Cost to import: Documentary compliance (USD) (DB16-18 methodology);Trading across Borders ;subindicator; Cost to import: Documentary compliance (USD) ;DB16-18 methodology
+Trading across Borders - Cost to export: Border compliance (USD) (DB16-18 methodology);Trading across Borders ;subindicator; Cost to export: Border compliance (USD) ;DB16-18 methodology
+Trading across Borders - Cost to import: Border compliance (USD) (DB16-18 methodology);Trading across Borders ;subindicator; Cost to import: Border compliance (USD) ;DB16-18 methodology
+Rank - Enforcing contract (DB18); Enforcing contract ;Rank ;;(DB18)
+Enforcing Contracts - DTF - Enforcing contract (DB17-18 methodology);Enforcing Contracts ;DTF; Enforcing contract;DB17-18 methodology
+Enforcing Contracts - DTF - Enforcing contracts (DB16 methodology);Enforcing Contracts ;DTF;Enforcing contracts;DB16 methodology
+Enforcing Contracts - DTF - Enforcing contracts (DB04-15 methodology);Enforcing Contracts ;DTF;Enforcing contracts;DB04-15 methodology
+Enforcing Contracts - Procedures (number);Enforcing Contracts ;subindicator; Procedures (number);
+Enforcing Contracts - Time (days);Enforcing Contracts ;subindicator; Time (days);
+Enforcing Contracts - Filing and service (days);Enforcing Contracts ;subindicator; Filing and service (days);
+Enforcing Contracts - Trial and judgment (days);Enforcing Contracts ;subindicator; Trial and judgment (days);
+Enforcing Contracts - Enforcement of judgment (days);Enforcing Contracts ;subindicator; Enforcement of judgment (days);
+Enforcing Contracts - Cost (% of claim);Enforcing Contracts ;subindicator; Cost (% of claim);
+Enforcing Contracts - Attorney fees (% of claim);Enforcing Contracts ;subindicator; Attorney fees (% of claim);
+Enforcing Contracts - Court fees (% of claim);Enforcing Contracts ;subindicator; Court fees (% of claim);
+Enforcing Contracts - Enforcement fees (% of claim);Enforcing Contracts ;subindicator; Enforcement fees (% of claim);
+Enforcing Contracts - Quality of the judicial processes index (0-18) (DB16 methodology);Enforcing Contracts ;subindicator; Quality of the judicial processes index (0-18);DB16 methodology
+Enforcing Contracts - Quality of the judicial administration index (0-18) (DB17-18 methodology);Enforcing Contracts ;subindicator; Quality of the judicial administration index (0-18);DB17-18 methodology
+Enforcing Contracts - Court structure and proceedings (0-5) (DB16 methodology);Enforcing Contracts ;subindicator; Court structure and proceedings (0-5);DB16 methodology
+Enforcing Contracts - Court structure and proceedings (0-5) (DB17-18 methodology);Enforcing Contracts ;subindicator; Court structure and proceedings (0-5);DB17-18 methodology
+Enforcing Contracts - Case management (0-6) (DB16-18 methodology);Enforcing Contracts ;subindicator; Case management (0-6);DB16-18 methodology
+Enforcing Contracts - Court automation (0-4) (DB16-18 methodology);Enforcing Contracts ;subindicator; Court automation (0-4);DB16-18 methodology
+Enforcing Contracts - Alternative dispute resolution (0-3) (DB16-18 methodology);Enforcing Contracts ;subindicator; Alternative dispute resolution (0-3);DB16-18 methodology
+Rank - Resolving insolvency (DB18); Resolving insolvency ;Rank ;;(DB18)
+Resolving Insolvency - DTF - Resolving insolvency (DB15-18 methodology);Resolving Insolvency ;DTF;Resolving insolvency;DB15-18 methodology
+Resolving Insolvency - DTF - Resolving insolvency (DB04-14 methodology);Resolving Insolvency ;DTF;Resolving insolvency;DB04-14 methodology
+Resolving Insolvency - Outcome (0 as piecemeal sale and 1 as going concern);Resolving Insolvency ;subindicator;Outcome (0 as piecemeal sale and 1 as going concern);
+Resolving Insolvency - Time (years);Resolving Insolvency ;subindicator;Time (years);
+Resolving Insolvency - Cost (% of estate);Resolving Insolvency ;subindicator; Cost (% of estate);
+Resolving Insolvency - Recovery rate (cents on the dollar);Resolving Insolvency ;subindicator;Recovery rate (cents on the dollar);
+Resolving Insolvency - Strength of insolvency framework index (0-16) (DB15-18 methodology);Resolving Insolvency ;subindicator;Strength of insolvency framework index (0-16);DB15-18 methodology
+Resolving Insolvency - Commencement of proceedings index (0-3) (DB15-18 methodology);Resolving Insolvency ;subindicator;Commencement of proceedings index (0-3);DB15-18 methodology
+Resolving Insolvency - Management of debtor's assets index (0-6) (DB15-18 methodology);Resolving Insolvency ;subindicator;Management of debtor's assets index (0-6);DB15-18 methodology
+Resolving Insolvency - Reorganization proceedings index (0-3) (DB15-18 methodology);Resolving Insolvency ;subindicator;Reorganization proceedings index (0-3);DB15-18 methodology
+Resolving Insolvency - Creditor participation index (0-4) (DB15-18 methodology);Resolving Insolvency ;subindicator;Creditor participation index (0-4);DB15-18 methodology
