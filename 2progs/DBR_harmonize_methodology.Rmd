@@ -1,0 +1,62 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(tidyverse)
+library(data.table)
+
+```
+
+
+# Data import
+
+The original data is available although the website seems optimized for on screen rendering. Geting the raw data is a bit cumbersome, manually downloading the data and recovering varnames, but doable. This is how:
+
+- Getting the data: 
+    - Source: http://www.doingbusiness.org/data > data > Historical Data (this takes you to http://www.doingbusiness.org/Custom-Query)
+    - Selections: select: 1. Choose Economies : all;  2. Choose Topics: all; 3. Which data years do you wish to display? all
+    - Click "Create Report". A on screen table displaying the data will apear. Click the download button in the upper right corner
+    - A file "CustomQuery.xlsx" is downloaded which I renamed "doing_business_data_2018_01_16.xlsx" for better documentation
+- Fixing Varnames
+    - Columns are "named" by a long label. Some times it is difficult to see the diference between columns because there are line breaks (Enter) embeded in the cell text. For instance, unless you expand the row hight you will not see the difference between the labels of columns R and S. This happens inconsistenly, for some columns but not others. So I manually all these line breaks with spaces
+    - It is combersome to program with these huge varnames. So I created a dictionary (available at 1data/DBR_var_dic.csv) associating the labels in the excel file with propper variable names (no spaces, shorter) I invented for those vars. Once the original file is imported into R the columns names are replaced from the original labels to these varnames
+    
+- Direct download
+    - In theory it should be possible to download the same data in more friendly format though the WB data API, and associated packages such as [wbstats](https://github.com/GIST-ORNL/wbstats). But I don't yet know how to filter for all DBR series. [I asked the developers(https://github.com/GIST-ORNL/wbstats/issues/6) and will update here once I get a response.
+    
+    
+    
+```{r message=FALSE, warning=FALSE}
+DBR <- read_excel("../1data/doing_business_data_2018_01_16.xlsx") %>% data.table
+DBR %>% str
+DBR_dic <- 
+```
+    
+    
+    
+    
+#   This file has 
+
+
+
+
+
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
